@@ -1,0 +1,49 @@
+serial_init
+SetSysTick
+RetrieveSettings
+port_init
+LED_ON
+ENDSTOP Z TRIGGERED
+ENDSTOP P TRIGGERED
+ENDSTOP Z TRIGGERED
+ENDSTOP P TRIGGERED
+setup
+{SYS:STARTED}{VER:51}{R:UD}{R:UD}{VER:51}{M:000}{M:000}{SYS:BUILD}{TS:Xyz}{TS:xyz}{TS:Xyz}{TS:XYz}{TS:Xyz}{TS:XYz}{TS:Xyz}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:Xyz}{TS:XYz}ok N0 P15 B13
+ok N0 P15 B14
+{TQ:100}ok N0 P15 B15
+{TS:xYz}{TS:xYz}{M:000}ok N0 P15 B15
+{TS:XYz}ok N0 P15 B15
+{TS:xYz}ok N0 P15 B15
+ok N0 P15 B15
+{TS:XYz}ok N0 P15 B15
+{TS:xYz}ok N0 P15 B15
+{TS:xyz}ok N0 P15 B15
+{TS:xYz}ok N0 P15 B14
+ok N0 P15 B15
+echo:Settings Stored (240 bytes)
+{TS:xYz}{TS:xYz}{M:000}{SYS:BUILD}{TS:XYz}{TS:xYz}{TS:XYz}{TS:Xyz}{TS:XYz}{TS:Xyz}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:Xyz}{TS:XYz}ok N0 P15 B13
+ok N0 P15 B14
+{TQ:100}ok N0 P15 B15
+{TS:XYz}{M:000}{SYS:BUILD}{TS:xYz}{TS:XYz}{TS:Xyz}{TS:XYz}{TS:Xyz}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:xyZ}{TS:xyz}{TS:Xyz}{TS:XYz}Num X,Y: 2,2
+Z search height: 0
+Measured points:
+  0.00000  -0.34055
+  0.08474  -0.26765
+ok N0 P15 B13
+echo:Settings Stored (240 bytes)
+ok N0 P15 B14
+{TQ:100}ok N0 P15 B15
+echo:Settings Stored (240 bytes)
+{TS:XYz}{TS:XYz}{M:000}{TS:xYz}ok N0 P15 B15
+{TS:xyz}ok N0 P15 B14
+ok N0 P15 B15
+ok N0 P15 B15
+ok N0 P15 B14
+ok N0 P15 B15
+ok N0 P15 B14
+ok N0 P15 B15
+ok N0 P15 B15
+ok N0 P15 B15
+{TS:xyZ}ok N0 P15 B15
+{TS:xyz}ok N0 P15 B15
+{M:000}
